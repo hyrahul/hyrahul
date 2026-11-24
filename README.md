@@ -1,6 +1,19 @@
 # Hi, I'm Rahul Pal 👋
 
 ### Senior Software Engineer | Backend Architecture | Generative AI | Enterprise Modernisation
+<p align="left">
+  <a href="https://www.credly.com/badges/97d0c3dc-c23d-4251-b3c9-75a57b5fe4cc/public_url">
+    <img src="./assets/claude-certified-architect-professional.png"
+         width="150"
+         alt="Claude Certified Architect Professional"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/8b82e6e3-52c0-4165-81bd-19986846ef61/public_url">
+    <img src="./assets/claude-partner-badge-claude-code.png"
+         width="150"
+         alt="Claude Partner Badge - Claude Code"/>
+  </a>
+</p>
 
 I'm a Senior Software Engineer with **7+ years of experience** building scalable backend systems, distributed applications and AI-powered solutions.
 
@@ -143,26 +156,6 @@ Contributed to Microsoft's community-maintained Windows Package Manager reposito
 🔗 [View My GitHub Contributions](https://github.com/hyrahul)
 
 ---
-
-## 🏅 Certifications & Credentials
-
-<p align="left">
-  <a href="https://www.credly.com/badges/97d0c3dc-c23d-4251-b3c9-75a57b5fe4cc/public_url">
-    <img
-      src="./assets/claude-certified-architect-professional.png"
-      width="180"
-      alt="Claude Certified Architect Professional"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/8b82e6e3-52c0-4165-81bd-19986846ef61/public_url">
-    <img
-      src="./assets/claude-partner-badge-claude-code.png"
-      width="180"
-      alt="Claude Partner Badge - Claude Code"
-    />
-  </a>
-</p>
 
 ### Professional Training
 
