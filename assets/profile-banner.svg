@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07121b"/><stop offset="100%" stop-color="#10132b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22c55e"/><stop offset="50%" stop-color="#22d3ee"/><stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#26394a" stroke-width=".7"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)" opacity=".55"/>
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="17" fill="none" stroke="url(#line)" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="43" rx="16" fill="#101c29"/><path d="M2 44H1198" stroke="#34485a"/>
+  <circle cx="28" cy="23" r="6" fill="#ff5f57"/><circle cx="50" cy="23" r="6" fill="#febc2e"/><circle cx="72" cy="23" r="6" fill="#28c840"/>
+  <text x="100" y="29" fill="#9ca3af" font-family="monospace" font-size="16">rahulpal@github:~$ ./initialize_profile.sh</text>
+  <text x="65" y="112" fill="#22c55e" font-family="monospace" font-size="17">$</text>
+  <text x="95" y="112" fill="#f8fafc" font-family="monospace" font-weight="bold" font-size="43">Rahul Pal</text>
+  <rect x="305" y="78" width="10" height="39" rx="2" fill="#22c55e"/>
+  <text x="65" y="158" fill="#e2e8f0" font-family="monospace" font-size="22">Senior Software Engineer</text>
+  <text x="65" y="192" fill="#67e8f9" font-family="monospace" font-size="16">Backend Architecture | Generative AI | Enterprise Modernisation</text>
+  <text x="65" y="240" fill="#22c55e" font-family="monospace" font-size="17">&gt; Building reliable systems. Exploring intelligent software.</text>
+  <rect x="795" y="75" width="345" height="166" rx="12" fill="#0b1722" stroke="#345066"/>
+  <text x="820" y="110" fill="#22c55e" font-family="monospace" font-size="16">$ cat profile.json</text>
+  <text x="820" y="145" fill="#67e8f9" font-family="monospace" font-size="15">"experience": "7+ years",</text>
+  <text x="820" y="175" fill="#67e8f9" font-family="monospace" font-size="15">"focus": "Backend + AI",</text>
+  <text x="820" y="205" fill="#67e8f9" font-family="monospace" font-size="15">"mindset": "Always learning"</text>
+  <text x="820" y="228" fill="#22c55e" font-family="monospace" font-size="13">status: exploring_new_ideas_</text>
+</svg>
