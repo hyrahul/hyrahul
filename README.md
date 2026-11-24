@@ -13,6 +13,18 @@
          width="150"
          alt="Claude Partner Badge - Claude Code"/>
   </a>
+    &nbsp;&nbsp;  
+  <a href="https://www.credly.com/badges/ddbed60c-6449-43bb-8bdc-c241131d03f4/public_url">
+    <img src="./assets/building-ai-agents-with-mongodb.png"
+         width="150"
+         alt="Building AI Agents with MongoDB"/>
+  </a>
+  &nbsp;&nbsp;  
+  <a href="https://www.credly.com/badges/07d28529-ef8f-431d-af4e-2bfcc9a08b0c/public_url">
+    <img src="./assets/ai-skills-passport.png"
+         width="150"
+         alt="Building AI Agents with MongoDB"/>
+  </a>
 </p>
 
 I'm a Senior Software Engineer with **7+ years of experience** building scalable backend systems, distributed applications and AI-powered solutions.
