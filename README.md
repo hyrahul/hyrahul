@@ -196,7 +196,6 @@ I'm always interested in connecting with engineers, architects and AI enthusiast
 
 - 💻 GitHub: [@hyrahul](https://github.com/hyrahul)
 - 📧 Email: [hyrahulpal@gmail.com](mailto:hyrahulpal@gmail.com)
-- 💼 LinkedIn: [Rahul Pal](YOUR_LINKEDIN_URL)
 
 ---
 
